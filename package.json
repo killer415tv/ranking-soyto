@@ -1,9 +1,10 @@
 {
   "name": "ranking-soyto",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start-server": "node %NODE_DEBUG_OPTION% server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
