@@ -10,8 +10,11 @@ node_modules/
 data/
 
 #Bower And Dist
-www/assets/lib/bower/
-www/assets/dist/
+www/assets/rank/lib/bower/
+www/assets/rank/dist/
+
+www/assets/admin/lib/bower/
+www/assets/admin/dist/
 
 #Sitemaps
 www/*.xml
